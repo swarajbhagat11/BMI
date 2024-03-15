@@ -1,3 +1,3 @@
-- I have used multiprocessing to execute code parallel, which will help to reduce time for processing as well as will utilize all cores of CPU.
-- I have used binary search to search for category based on calculated BMI as list is already sorted.
+- I've implemented multiprocessing techniques to execute code in parallel, thereby reducing processing time and maximizing CPU utilization across all cores.
+- I've employed binary search to efficiently locate categories based on calculated BMI within a sorted list. This approach optimizes the search process, ensuring swift and accurate categorization.
 - We can use Pandas library for enhanced reporting.
